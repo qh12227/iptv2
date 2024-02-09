@@ -1,10 +1,10 @@
-#EXTINF:-1,tvg-id="莆田1套" tvg-name="莆田1套" tvg-logo="https://epg.112114.xyz/logo/莆田一套.png" group-title="福建",莆田1套
+#EXTINF:-1,tvg-id="莆田1套" tvg-name="莆田1套" tvg-logo="https://upload.112114.xyz/logo/莆田1套.png" group-title="福建",莆田1套
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227161/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="福建",东南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.112114.xyz/logo/福建综合.png" group-title="福建",福建综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
-#EXTINF:-1,tvg-id="福建乡村振兴公共频道" tvg-name="福建乡村振兴公共频道" tvg-logo="https://epg.112114.xyz/logo/福建乡村振兴公共.png" group-title="福建",福建乡村振兴公共频道
+#EXTINF:-1,tvg-id="福建乡村振兴公共" tvg-name="福建乡村振兴公共" tvg-logo="https://epg.112114.xyz/logo/福建公共.png" group-title="福建",福建乡村振兴公共
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
 #EXTINF:-1,tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://epg.112114.xyz/logo/福建新闻.png" group-title="福建",福建新闻
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
@@ -12,7 +12,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8
 #EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://epg.112114.xyz/logo/福建旅游.png" group-title="福建",福建旅游
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
-#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="少儿",FMG福建少儿（高清）8M
+#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="福建",福建少儿
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
 #EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://epg.112114.xyz/logo/福建经济.png" group-title="福建",福建经济生活
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
