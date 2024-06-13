@@ -1,5 +1,5 @@
 #EXTINF:-1,tvg-id="莆田1套" tvg-name="莆田1套" tvg-logo="https://upload.112114.xyz/logo/莆田1套.png" group-title="福建",莆田1套
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227161/index.m3u8
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="福建",东南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.112114.xyz/logo/福建综合.png" group-title="福建",福建综合
